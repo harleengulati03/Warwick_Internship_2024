@@ -1,1 +1,1 @@
-Code and academic poster for Warwick Statistics Summer Research Internship
+Code and academic poster for Warwick Statistics Summer Research Internship , implementing Approximate Bayesian Computation (ABC) methods such as ABC-MCMC and ABC Rejection Sampling for a toy coin example and an individual based model (IBM). Handling tradeoff between computational efficeny and accuracy (e.g., by playing around with the tolerance parameter for the kernel function in ABC-MCMC). 
